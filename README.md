@@ -1,12 +1,19 @@
 ## Olá Pessoal! Sou o Nicolas Thomazini👋
 
 - 🔭 Buscando oportunidades em Machine Learning ou Desenvolvimento Web
-- 🌱 Estuando Machine Leraning, Back-end, Front-end
+- 🌱 Estudando Machine Leraning, Back-end, Front-end
 - 😄 Pronome: Ele/Dele
 
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+  ##
+
 <div>
-  <a href="https://https://github.com/nickaoth">
-  <img height="50px" img alt="HTML" img alt src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img height="20px" img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height="20em" img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <a href="linkedin.com/in/nicolas-thomazini-428527183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolasfrezarimt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
