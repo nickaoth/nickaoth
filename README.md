@@ -2,7 +2,6 @@
 
 - 🔭 Buscando oportunidades em Machine Learning ou Desenvolvimento Web
 - 🌱 Estudando Machine Leraning, Back-end, Front-end
-- 😄 Pronome: Ele/Dele
 
 
 <div style="display: inline_block"><br>
